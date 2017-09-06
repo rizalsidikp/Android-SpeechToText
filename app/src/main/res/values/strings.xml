@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SpeechToText</string>
+    <string name="example">Speech To Text Example</string>
+    <string name="btn_tap">Tap to speech</string>
+    <string name="result">The result should replace this text</string>
+    <string name="sesuatu">Katakan Sesuatu</string>
+    <string name="tidaksupport">Maaf Device Anda Tidak Support</string>
 </resources>
